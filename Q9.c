@@ -16,13 +16,13 @@ Simple Interest=1050, Compound Interest=1125.76
 #include <stdio.h>
 #include <math.h>
 int main(){
-float p,r,t,SI,CI,calc;
+float p,r,t,SI,CI;
 printf("Enter p, r,t");
 scanf("%f %f %f",&p,&r,&t);
 SI=(p*r*t)/100;
-calc=r/100;
 CI = p * pow((1 + r / 100.0),t) - p;
 printf("Simple Interest= %.2f",SI);
 printf("Compound Interest= %.2f",CI);
 return 0;
 }
+
