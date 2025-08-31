@@ -1,6 +1,4 @@
 /* Q16: Write a program to input three numbers and find the largest among them using if–else.
-
-/*
 Sample Test Cases:
 Input 1:
 3 7 5
@@ -11,7 +9,6 @@ Input 2:
 -1 -5 0
 Output 2:
 Largest is 0
-
 */
 #include <stdio.h>
 int main(){
@@ -27,3 +24,4 @@ int main(){
 	return 0;
 	
 }
+
