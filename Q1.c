@@ -9,7 +9,6 @@ Input 2:
 -1 20
 Output 2:
 Sum = 19
-
 */
 #include <stdio.h>
 int main(){
@@ -20,3 +19,4 @@ int main(){
 	printf("Sum = %d" , sum);
 	return 0;
 }
+
