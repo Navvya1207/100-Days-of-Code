@@ -1,6 +1,4 @@
 /* Q15: Write a program to input a character and check whether it is an uppercase alphabet, lowercase alphabet, digit, or special character.
-
-/*
 Sample Test Cases:
 Input 1:
 A
@@ -21,7 +19,6 @@ Input 4:
 #
 Output 4:
 Special character
-
 */
 #include <stdio.h>
 int main(){
@@ -38,3 +35,4 @@ int main(){
 	printf("Special character");
 	return 0;
 }
+
