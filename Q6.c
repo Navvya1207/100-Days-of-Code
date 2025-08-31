@@ -9,7 +9,6 @@ Input 2:
 -1 1
 Output 2:
 After swap: 1 -1
-
 */
 #include <stdio.h>
 int main(){
@@ -22,3 +21,4 @@ int main(){
 	printf("After swap: %d %d",num1,num2);
 	return 0;
 }
+
