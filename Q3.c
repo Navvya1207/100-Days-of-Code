@@ -9,7 +9,6 @@ Input 2:
 3 7
 Output 2:
 Area=21, Perimeter=20
-
 */
 #include <stdio.h>
 int main(){
@@ -22,3 +21,4 @@ int main(){
 	printf(", Perimeter =%d",perimeter);
 	return 0;
 }
+
