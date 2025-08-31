@@ -1,6 +1,4 @@
 /* Q13: Write a program to input a year and check whether it is a leap year or not using conditional statements.
-
-/*
 Sample Test Cases:
 Input 1:
 2020
@@ -16,7 +14,6 @@ Input 3:
 2000
 Output 3:
 Leap year
-
 */
 #include <stdio.h>
 int main(){
@@ -36,3 +33,4 @@ int main(){
 	printf("Not a Leap Year");
 	return 0;
 }
+
