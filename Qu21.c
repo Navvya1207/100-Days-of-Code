@@ -1,6 +1,4 @@
 /* Q21: Write a program to display the month name and number of days using switch-case for a given month number.
-
-/*
 Sample Test Cases:
 Input 1:
 2
@@ -11,7 +9,6 @@ Input 2:
 12
 Output 2:
 December, 31 days
-
 */
 #include <stdio.h>
 int main(){
@@ -36,3 +33,4 @@ int main(){
 	    return 0;
 	
 }
+
