@@ -10,7 +10,6 @@ Input 2:
 3
 Output 2:
 Area=28.27, Circumference=18.85
-
 */
 #include <stdio.h>
 int main(){
@@ -23,3 +22,4 @@ int main(){
 	printf(", Circumference =%.2f",circum);
 	return 0;
 }
+
