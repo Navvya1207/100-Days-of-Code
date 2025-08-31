@@ -1,6 +1,4 @@
 /* Q18: Write a program to assign grades based on a percentage input.
-
-/*
 Sample Test Cases:
 Input 1:
 95
@@ -21,7 +19,6 @@ Input 4:
 50
 Output 4:
 Grade F
-
 */
 #include <stdio.h>
 int main(){
@@ -40,3 +37,4 @@ int main(){
 	printf("Grade F");
 	return 0;
 }
+
