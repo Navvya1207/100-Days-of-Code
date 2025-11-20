@@ -1,4 +1,4 @@
-/* Q40: Write a program to find the 1’s complement of a binary number and print it.
+/* Q40: Write a program to find the 1â€™s complement of a binary number and print it.
 
 /*
 Sample Test Cases:
@@ -13,7 +13,7 @@ Output 2:
 0000
 
 */
-/* Q40: Write a program to find the 1’s complement of a binary number and print it.
+/* Q40: Write a program to find the 1â€™s complement of a binary number and print it.
 
 /*
 Sample Test Cases:
@@ -27,7 +27,7 @@ Input 2:
 Output 2:
 0000
 */
-/* Q40: Write a program to find the 1’s complement of a binary number and print it.
+/* Q40: Write a program to find the 1â€™s complement of a binary number and print it.
 
 /*
 Sample Test Cases:
